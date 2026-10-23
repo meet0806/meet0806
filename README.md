@@ -19,8 +19,6 @@ I build reliable backend systems and AI-powered services: event-driven pipelines
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **Distributed Banking System** | Fault-tolerant 5-node ledger using Multi-Paxos with leader election, tested under network partitions and crash recovery | Go, RPC, SQLite |
-| **Distributed File System** | Chunked storage with 3x replication, SHA-256 integrity checks, heartbeat failure detection and client failover | Go, gRPC, Protobuf, Docker |
 | [collab-canvas](https://github.com/meet0806/collab-canvas) | Real-time collaborative canvas with CRDT-based sync | React, TypeScript, Rust → WebAssembly, Yjs, WebSockets |
 
 ### Open-source contributions
