@@ -1,6 +1,6 @@
 # Meet Zalavadiya
 
-**Backend & AI/ML Platform Engineer** · M.S. Computer Science, Stony Brook University · Open to full-time Software Engineer roles (backend, ML platform, AI)
+**Backend & AI/ML Platform Engineer** · M.S. Data Science, Stony Brook University · Open to full-time Software Engineer roles (backend, ML platform, AI)
 
 I build reliable backend systems and AI-powered services: event-driven pipelines on Kafka and AWS, Java Spring Boot microservices, and LLM agent systems running in production.
 
